@@ -33,6 +33,10 @@
 [Angry Isabella] Re Greedy Louis: 好家伙
 ```
 
+#### Can I try?
+Of course!
+When I activate my app, you can visit [this webpage](http://192.168.1.108:8501/) to be a real dongzhu!
+
 ### Repository location
 
 Jump [here](https://github.com/HirojiFukuyama/pkuhole) for more details.
