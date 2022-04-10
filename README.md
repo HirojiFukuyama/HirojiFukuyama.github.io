@@ -36,7 +36,7 @@
 ### Can I try?
 Of course!
 
-First, email the administrator ***rtzhao@gmail.com*** for activation of the server. (otherwise the website cannot be accessed)
+First, email the administrator ***rtzhao1912@gmail.com*** for activation of the server. (otherwise the website cannot be accessed)
 
 After the administrator activated the server, click [here](http://192.168.1.108:8501/) to be a real **洞主**!
 
