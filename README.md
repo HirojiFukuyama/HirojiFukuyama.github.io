@@ -35,7 +35,7 @@
 
 ### Can I try?
 
-[Of course!]((https://share.streamlit.io/hirojifukuyama/pkuhole/app.py))
+**[Of course!](https://share.streamlit.io/hirojifukuyama/pkuhole/app.py)**
 
 ### Repository location
 
