@@ -35,11 +35,14 @@
 
 ### Can I try?
 Of course!
-When I activate my app, you can visit [this webpage](http://192.168.1.108:8501/) to be a real dongzhu!
+
+First, email the administrator ***rtzhao@gmail.com*** for activation of the server. (otherwise the website cannot be accessed)
+
+After the administrator activated the server, click [here](http://192.168.1.108:8501/) to be a real **洞主**!
 
 ### Repository location
 
-Jump [here](https://github.com/HirojiFukuyama/pkuhole) for more details.
+Click [here](https://github.com/HirojiFukuyama/pkuhole) for more details.
 
 ### Support or Contact
 
