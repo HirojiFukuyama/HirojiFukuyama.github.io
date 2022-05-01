@@ -36,9 +36,7 @@
 
 ### Can I try?
 
-⬇️⬇️⬇️
-
-{% include button.html url="https://share.streamlit.io/hirojifukuyama/pkuhole/app.py" %}
+[😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅](https://share.streamlit.io/hirojifukuyama/pkuhole/app.py)
 
 ### Repository location
 
