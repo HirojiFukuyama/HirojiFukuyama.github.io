@@ -2,7 +2,8 @@
 
 ### Principles
 
-- A 2-layer LSTM trained from scratch
+- A 2-layer GRU trained from scratch
+- A 4-layer LSTM trained from scratch
 - Fine-tune pretrained GPT-2 in the future
 
 ### Demo
@@ -35,7 +36,9 @@
 
 ### Can I try?
 
-**[Of course!](https://share.streamlit.io/hirojifukuyama/pkuhole/app.py)**
+⬇️⬇️⬇️
+
+{% include button.html url="https://share.streamlit.io/hirojifukuyama/pkuhole/app.py" %}
 
 ### Repository location
 
