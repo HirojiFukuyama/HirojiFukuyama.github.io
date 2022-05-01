@@ -1,12 +1,12 @@
-## PKU hole generator
+# PKU hole generator
 
-### Principles
+## Principles
 
 - A 2-layer GRU trained from scratch
 - A 4-layer LSTM trained from scratch
 - Fine-tune pretrained GPT-2 in the future
 
-### Demo
+## Demo
 ```markdown
 黄雾带万好了一次直男的一般巨Dave也有点找回所谓  双心心碎
 [洞主] 1想四个关系的三行静，不终夜迅窥，似乎有罢身爽 分拼不成作我动了可能是自己关系北京了），只有所以与为新文有人了，不如迅速扩望凑百顿，早上找去他的机还可以去说话。然说谈恋爱 G君你恋爱他说立点接触，和她们其实不是，你的那一天，在那么的那方位
@@ -34,14 +34,14 @@
 [Angry Isabella] Re Greedy Louis: 好家伙
 ```
 
-### Can I try?
+## 来当洞主吧！（迫真）
 
 [😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅](https://share.streamlit.io/hirojifukuyama/pkuhole/app.py)
 
-### Repository location
+## Repository location
 
 Click [here](https://github.com/HirojiFukuyama/pkuhole) for more details.
 
-### Support or Contact
+## Support or Contact
 
 Feel free to email ***rtzhao1912@gmail.com*** if you have any question or supplement.
