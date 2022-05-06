@@ -24,7 +24,7 @@
 
 [😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅](https://share.streamlit.io/hirojifukuyama/pkuhole/app.py)
 
-## Repository location
+## Repository Location
 
 Click [here](https://github.com/HirojiFukuyama/pkuhole) for more details.
 
