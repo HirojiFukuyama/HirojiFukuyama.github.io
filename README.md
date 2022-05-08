@@ -1,4 +1,4 @@
-# PKU hole generator
+# PKU Hole Generator
 
 ## Principles
 
